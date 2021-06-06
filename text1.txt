@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 006F-A690
+
+ Directory of C:\Users\ask\MyProject
+
+06/06/2021  12:22 AM    <DIR>          .
+06/06/2021  12:22 AM    <DIR>          ..
+06/06/2021  12:14 AM    <DIR>          .git
+06/06/2021  12:22 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  188,998,553,600 bytes free
